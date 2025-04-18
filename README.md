@@ -67,4 +67,4 @@ Free to use for personal and commercial projects.
 ## Credits
 
 - Fonts: Google Fonts (Readex Pro)
-- Background image should be credited according to its source
+- Background image by Merlin Lightpainting https://www.pexels.com/photo/a-blue-face-glowing-11167645/
