@@ -2,7 +2,9 @@
   "launch": {
 
     "editor.autoClosingBrackets": false,
-    "editor.suggestOnTriggerCharacyers": false
+    "editor.suggestOnTriggerCharacyers": false,
+    "github.copilot.enable": false
   },
-  "editor.inlineSuggest.enabled": false
+  "editor.inlineSuggest.enabled": false,
+  
 }
