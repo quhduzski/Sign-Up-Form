@@ -3,5 +3,6 @@
 
     "editor.autoClosingBrackets": false,
     "editor.suggestOnTriggerCharacyers": false
-  }
+  },
+  "editor.inlineSuggest.enabled": false
 }
